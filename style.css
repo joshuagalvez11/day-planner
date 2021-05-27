@@ -33,7 +33,7 @@ textarea {
 
 .row {
   white-space: pre-wrap;
-  height: 80px;
+  height: 100px;
   width: 100%;
   border-top: 1px solid white;
 }
@@ -46,6 +46,7 @@ textarea {
 }
 
 .inputSlot{
+  text-align: left;
   flex-grow: 1;
 }
 .past {
